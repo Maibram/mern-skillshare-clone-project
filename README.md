@@ -55,7 +55,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo**
     ```sh
-    git clone [https://github.com/your-username/mern-skillshare-project.git](https://github.com/your-username/mern-skillshare-project.git)
+    git clone [https://github.com/Maibram/mern-skillshare-project.git](https://github.com/Maibram/mern-skillshare-project.git)
     ```
 2.  **Install Backend Dependencies**
     ```sh
