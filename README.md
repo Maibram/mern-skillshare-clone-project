@@ -59,7 +59,7 @@ To get a local copy up and running, follow these simple steps.
     ```
 2.  **Install Backend Dependencies**
     ```sh
-    cd mern-skillshare-project/backend
+    cd mern-skillshare-clone-project/backend
     npm install
     ```
 3.  **Install Frontend Dependencies**
