@@ -6,7 +6,7 @@ A feature-rich, full-stack web application inspired by Skillshare, built from th
 
 ---
 
-## Features Implemented ✨
+## Features Implemented 
 
 - **User Authentication**: Secure user registration with OTP email verification, login, and JWT-based session management.
 - **Course Management**: Full CRUD (Create, Read, Update, Delete) functionality for courses, restricted to the course instructor.
@@ -22,7 +22,7 @@ A feature-rich, full-stack web application inspired by Skillshare, built from th
 
 ---
 
-## Tech Stack 💻
+## Tech Stack 
 
 **Frontend:**
 - **React.js**: For building the user interface.
